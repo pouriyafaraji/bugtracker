@@ -1,0 +1,16 @@
+{
+  "name": "bugtracker/backend",
+  "description": "Backend for Bug Tracker application",
+  "type": "project",
+  "require": {
+    "php": ">=7.4"
+  },
+  "require-dev": {
+    "phpstan/phpstan": "^1.10"
+  },
+  "config": {
+    "optimize-autoloader": true,
+    "preferred-install": "dist",
+    "sort-packages": true
+  }
+}

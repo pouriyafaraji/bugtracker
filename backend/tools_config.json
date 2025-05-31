@@ -1,0 +1,11 @@
+{
+    "tools": {
+        "pylint": "E:\\BugTracker\\backend\\tools\\pylint\\pylint"
+    },
+    "versions": {
+        "python": "3.8",
+        "php": "8.1",
+        "cpp": "17",
+        "javascript": "es2021"
+    }
+}

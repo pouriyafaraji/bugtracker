@@ -1,0 +1,7 @@
+parameters:
+    level: 5
+    paths:
+        - temp
+    excludePaths:
+        - vendor/*
+    checkMissingIterableValueType: false 
