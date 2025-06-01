@@ -105,6 +105,7 @@ python setup.py
 ### 3. اجرای سرور
 
 ```bash
+pip install "uvicorn[standard]"واگر خطا گرفت از دستور pip install "fastapi[all]" استفاده کنید
 uvicorn main:app --reload
 ```
 
