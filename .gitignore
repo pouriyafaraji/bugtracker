@@ -42,6 +42,8 @@ Thumbs.db
 *.log
 *.tmp
 *.temp
+temp/
+temp_files/
 
 # Logs
 logs
